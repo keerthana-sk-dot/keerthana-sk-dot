@@ -6,7 +6,6 @@
 Frontend Developer | React.js | Next.js | TypeScript
 </h3>
 
-
 <p align="center">
 M.Sc. Computer Science graduate and aspiring Frontend Developer with strong
 knowledge of React.js, Next.js, JavaScript, and TypeScript.
@@ -20,10 +19,12 @@ REST API integration, Zustand, and reusable component development.
 
 <hr>
 
+<!-- ================= PROFILE SECTION ================= -->
+
 <table>
 <tr>
 
-<!-- LEFT COLUMN -->
+<!-- LEFT SIDE -->
 <td width="30%" valign="top" align="center">
 
 <img src="https://github.com/keerthana-sk-dot.png"
@@ -35,34 +36,58 @@ REST API integration, Zustand, and reusable component development.
 
 <hr>
 
-<h3>👩‍💻 Profile</h3>
+<h2>👩‍💻 Profile</h2>
+
+<hr>
 
 <p align="left">
-
-🎓 <b>M.Sc. Computer Science</b><br><br>
-
-💻 <b>Frontend Developer</b><br><br>
-
-📍 <b>Chennai, Tamil Nadu</b><br><br>
-
-🚀 <b>Open to Entry-Level Opportunities</b>
-
+🎓 <b>M.Sc. Computer Science Graduate</b>
 </p>
 
 <hr>
 
-<h3>📚 Currently Learning</h3>
+<p align="left">
+💻 <b>Frontend Developer</b>
+</p>
+
+<hr>
 
 <p align="left">
+📍 <b>Chennai, Tamil Nadu</b>
+</p>
 
-🔹 Advanced React.js<br><br>
+<hr>
 
-🔹 Next.js<br><br>
+<p align="left">
+🚀 <b>Open to Entry-Level Opportunities</b>
+</p>
 
-🔹 TypeScript<br><br>
+<hr>
 
+<h2>📚 Currently Learning</h2>
+
+<hr>
+
+<p align="left">
+🔹 Advanced React.js
+</p>
+
+<hr>
+
+<p align="left">
+🔹 Next.js
+</p>
+
+<hr>
+
+<p align="left">
+🔹 TypeScript
+</p>
+
+<hr>
+
+<p align="left">
 🔹 Frontend Performance
-
 </p>
 
 <hr>
@@ -70,7 +95,7 @@ REST API integration, Zustand, and reusable component development.
 </td>
 
 
-<!-- RIGHT COLUMN -->
+<!-- RIGHT SIDE -->
 <td width="70%" valign="top">
 
 <h2>🙋‍♀️ About Me</h2>
@@ -114,29 +139,48 @@ performance-optimized frontend applications.
 skills and contribute to real-world projects.
 </p>
 
-<hr>
+<br>
 
 <h2>📫 Contact</h2>
 
 <hr>
 
 <p>
-📧 <a href="mailto:skeethana91@gmail.com">
-skeethana91@gmail.com
+📍 <b>Chennai, Tamil Nadu, India</b>
+</p>
+
+<hr>
+<p>
+📱 <b>6379944152</b>
+</p>
+
+<hr>
+<p>
+📧
+<a href="mailto:skeethana91@gmail.com">
+<b>Email</b>
 </a>
 </p>
 
+<hr>
+
 <p>
-💼 <a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
-LinkedIn Profile
+💼
+<a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
+<b>LinkedIn</b>
 </a>
 </p>
 
+<hr>
+
 <p>
-🐙 <a href="https://github.com/keerthana-sk-dot">
-GitHub Profile
+🐙
+<a href="https://github.com/keerthana-sk-dot">
+<b>GitHub</b>
 </a>
 </p>
+
+<hr>
 
 </td>
 
@@ -144,11 +188,15 @@ GitHub Profile
 </table>
 
 <hr>
+
+
+<!-- ================= TECH STACK ================= -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <hr>
 
-<h3>Frontend</h3>
+<h3>💻 Frontend</h3>
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -159,7 +207,9 @@ GitHub Profile
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-<h3>UI & Styling</h3>
+<hr>
+
+<h3>🎨 UI & Styling</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
@@ -167,7 +217,9 @@ GitHub Profile
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-<h3>State Management & APIs</h3>
+<hr>
+
+<h3>🔗 State Management & APIs</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge">
@@ -176,7 +228,9 @@ GitHub Profile
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 </p>
 
-<h3>Tools</h3>
+<hr>
+
+<h3>🔧 Tools</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -189,6 +243,8 @@ GitHub Profile
 <hr>
 
 
+<!-- ================= PROJECTS ================= -->
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <hr>
@@ -200,20 +256,27 @@ GitHub Profile
 
 <h3>⏳ ChronoCalc — Age Calculator</h3>
 
+<hr>
+
 <p>
 A responsive age calculator application built with Next.js, React.js,
 TypeScript, Material UI, and Day.js.
 </p>
 
+<hr>
+
 <ul>
 <li>Accurate age calculation in years, months, and days</li>
-<li>Real-time form validation with instant error handling</li>
-<li>Reusable components using React Hooks</li>
+<li>Real-time form validation</li>
+<li>Reusable React Hooks components</li>
 <li>Responsive design across devices</li>
 </ul>
 
+<hr>
+
 <p>
-<b>Tech:</b> Next.js · React.js · TypeScript · Material UI · Day.js
+<b>Tech:</b>
+Next.js · React.js · TypeScript · Material UI · Day.js
 </p>
 
 </td>
@@ -222,21 +285,28 @@ TypeScript, Material UI, and Day.js.
 
 <h3>🧠 Quiz Application</h3>
 
+<hr>
+
 <p>
 A responsive quiz application built with React.js, Next.js,
 TypeScript, and Material UI.
 </p>
+
+<hr>
 
 <ul>
 <li>Dynamic question rendering</li>
 <li>Real-time score calculation</li>
 <li>Timer-based quiz flow</li>
 <li>Reusable UI components</li>
-<li>Performance and responsive design optimization</li>
+<li>Responsive design</li>
 </ul>
 
+<hr>
+
 <p>
-<b>Tech:</b> React.js · Next.js · TypeScript · Material UI
+<b>Tech:</b>
+React.js · Next.js · TypeScript · Material UI
 </p>
 
 </td>
@@ -246,11 +316,15 @@ TypeScript, and Material UI.
 
 <hr>
 
+
+<!-- ================= EDUCATION ================= -->
+
 <h2 align="center">🎓 Education</h2>
 
 <hr>
 
 <table align="center">
+
 <tr>
 <th>Degree</th>
 <th>Institution</th>
@@ -284,18 +358,26 @@ TypeScript, and Material UI.
 <hr>
 
 
+<!-- ================= KEY SKILLS ================= -->
+
 <h2 align="center">🎯 Key Skills</h2>
 
 <hr>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Quick_Learner-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Time_Management-6A1B9A?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Quick_Learner-2E7D32?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Problem_Solving-1565C0?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Time_Management-6A1B9A?style=for-the-badge">
+
 </p>
 
 <hr>
 
+
+<!-- ================= CONNECT ================= -->
 
 <h2 align="center">📫 Connect With Me</h2>
 
@@ -303,17 +385,17 @@ TypeScript, and Material UI.
 
 <p align="center">
 
-  <a href="mailto:skeethana91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:skeethana91@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="https://github.com/keerthana-sk-dot">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/keerthana-sk-dot">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </p>
 
