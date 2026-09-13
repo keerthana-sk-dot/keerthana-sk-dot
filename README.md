@@ -35,8 +35,6 @@ REST API integration, Zustand, and reusable component development.
 
 
 <h2>👩‍💻 Profile</h2>
-
-
 <p align="left">
 🎓 <b>M.Sc. Computer Science Graduate</b>
 </p>
@@ -56,35 +54,26 @@ REST API integration, Zustand, and reusable component development.
 🚀 <b>Open to Entry-Level Opportunities</b>
 </p>
 
-<hr>
-
 <h2>📚 Currently Learning</h2>
-
-<hr>
 
 <p align="left">
 🔹 Advanced React.js
 </p>
 
-<hr>
 
 <p align="left">
 🔹 Next.js
 </p>
 
-<hr>
-
 <p align="left">
 🔹 TypeScript
 </p>
 
-<hr>
 
 <p align="left">
 🔹 Frontend Performance
 </p>
 
-<hr>
 
 </td>
 
@@ -94,61 +83,50 @@ REST API integration, Zustand, and reusable component development.
 
 <h2>🙋‍♀️ About Me</h2>
 
-<hr>
-
 <p>
 🎓 M.Sc. Computer Science graduate with a strong focus on Frontend Development.
 </p>
 
-<hr>
 
 <p>
 💻 Strong knowledge of React.js, Next.js, JavaScript, and TypeScript.
 </p>
-
-<hr>
 
 <p>
 ⚡ Skilled in building responsive and user-friendly web applications using
 HTML5, CSS3, Material UI, Tailwind CSS, and Bootstrap.
 </p>
 
-<hr>
 
 <p>
 🔗 Familiar with REST API integration and state management using Zustand.
 </p>
 
-<hr>
 
 <p>
 🧩 Interested in reusable components, responsive UI design, and
 performance-optimized frontend applications.
 </p>
 
-<hr>
 
 <p>
 🎯 Seeking an entry-level Frontend Developer role to apply my technical
 skills and contribute to real-world projects.
 </p>
 
-<br>
+<hr>
 
 <h2>📫 Contact</h2>
 
-<hr>
 
 <p>
 📍 <b>Chennai, Tamil Nadu, India</b>
 </p>
 
-<hr>
 <p>
 📱 <b>6379944152</b>
 </p>
 
-<hr>
 <p>
 📧
 <a href="mailto:skeethana91@gmail.com">
@@ -156,7 +134,6 @@ skills and contribute to real-world projects.
 </a>
 </p>
 
-<hr>
 
 <p>
 💼
@@ -165,7 +142,6 @@ skills and contribute to real-world projects.
 </a>
 </p>
 
-<hr>
 
 <p>
 🐙
@@ -174,14 +150,12 @@ skills and contribute to real-world projects.
 </a>
 </p>
 
-<hr>
 
 </td>
 
 </tr>
 </table>
 
-<hr>
 
 
 <!-- ================= TECH STACK ================= -->
