@@ -31,31 +31,26 @@ REST API integration, Zustand, and reusable component development.
      height="180"
      alt="Keerthana S GitHub Avatar">
 
-<br><br>
+<br>
 
-<hr>
 
 <h2>👩‍💻 Profile</h2>
 
-<hr>
 
 <p align="left">
 🎓 <b>M.Sc. Computer Science Graduate</b>
 </p>
 
-<hr>
 
 <p align="left">
 💻 <b>Frontend Developer</b>
 </p>
 
-<hr>
 
 <p align="left">
 📍 <b>Chennai, Tamil Nadu</b>
 </p>
 
-<hr>
 
 <p align="left">
 🚀 <b>Open to Entry-Level Opportunities</b>
