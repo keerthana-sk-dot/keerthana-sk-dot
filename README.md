@@ -53,27 +53,27 @@ REST API integration, Zustand, and reusable component development.
 <p align="left">
 🚀 <b>Open to Entry-Level Opportunities</b>
 </p>
-
-<h2>📚 Currently Learning</h2>
-
-<p align="left">
-🔹 Advanced React.js
-</p>
-
+<h2>📊 GitHub Stats</h2>
 
 <p align="left">
-🔹 Next.js
+
+<a href="https://github.com/keerthana-sk-dot?tab=repositories">
+<img src="https://img.shields.io/github/repos/keerthana-sk-dot?label=Repositories&logo=github">
+</a>
+
+<a href="https://github.com/keerthana-sk-dot">
+<img src="https://img.shields.io/github/followers/keerthana-sk-dot?label=Followers&logo=github">
+</a>
+
+<a href="https://github.com/keerthana-sk-dot?tab=following">
+<img src="https://img.shields.io/github/following/keerthana-sk-dot?label=Following&logo=github">
+</a>
+
+<a href="https://github.com/keerthana-sk-dot?tab=repositories">
+<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&logo=github">
+</a>
+
 </p>
-
-<p align="left">
-🔹 TypeScript
-</p>
-
-
-<p align="left">
-🔹 Frontend Performance
-</p>
-
 
 </td>
 
