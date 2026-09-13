@@ -6,8 +6,8 @@ Frontend Developer | React.js | Next.js | TypeScript
 </h3>
 
 <p align="center">
-M.Sc. Computer Science graduate and aspiring Frontend Developer with strong
-knowledge of React.js, Next.js, JavaScript, and TypeScript.
+M.Sc. Computer Science graduate and Frontend Developer with knowledge of
+React.js, Next.js, JavaScript, and TypeScript.
 </p>
 
 <p align="center">
