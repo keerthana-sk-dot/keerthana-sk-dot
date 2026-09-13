@@ -58,7 +58,7 @@ REST API integration, Zustand, and reusable component development.
 <p align="left">
 
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/github/repos/keerthana-sk-dot?label=Repositories&logo=github">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana--sk--dot&query=%24.public_repos&label=Repositories&logo=github">
 </a>
 
 <a href="https://github.com/keerthana-sk-dot">
@@ -70,7 +70,7 @@ REST API integration, Zustand, and reusable component development.
 </a>
 
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&logo=github">
+<img src="https://img.shields.io/github/user-stars/keerthana-sk-dot?label=Stars&logo=github">
 </a>
 
 </p>
