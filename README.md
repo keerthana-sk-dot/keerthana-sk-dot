@@ -23,39 +23,54 @@ REST API integration, Zustand, and reusable component development.
 <table>
 <tr>
 
-<td width="30%" valign="top">
+<!-- LEFT COLUMN -->
+<td width="30%" valign="top" align="center">
+
+<img src="https://github.com/keerthana-sk-dot.png"
+     width="180"
+     height="180"
+     alt="Keerthana S GitHub Avatar">
+
+<br><br>
+
+<hr>
 
 <h3>👩‍💻 Profile</h3>
 
-<p>
-🎓 M.Sc. Computer Science Graduate
-</p>
+<p align="left">
 
-<p>
-💻 Frontend Developer
-</p>
+🎓 <b>M.Sc. Computer Science</b><br><br>
 
-<p>
-📍 Chennai, Tamil Nadu
-</p>
+💻 <b>Frontend Developer</b><br><br>
 
-<p>
-🚀 Open to Entry-Level Opportunities
+📍 <b>Chennai, Tamil Nadu</b><br><br>
+
+🚀 <b>Open to Entry-Level Opportunities</b>
+
 </p>
 
 <hr>
 
 <h3>📚 Currently Learning</h3>
 
-<p>
-• Advanced React.js<br>
-• Next.js<br>
-• TypeScript<br>
-• Frontend Performance
+<p align="left">
+
+🔹 Advanced React.js<br><br>
+
+🔹 Next.js<br><br>
+
+🔹 TypeScript<br><br>
+
+🔹 Frontend Performance
+
 </p>
+
+<hr>
 
 </td>
 
+
+<!-- RIGHT COLUMN -->
 <td width="70%" valign="top">
 
 <h2>🙋‍♀️ About Me</h2>
@@ -66,27 +81,61 @@ REST API integration, Zustand, and reusable component development.
 🎓 M.Sc. Computer Science graduate with a strong focus on Frontend Development.
 </p>
 
+<hr>
+
 <p>
 💻 Strong knowledge of React.js, Next.js, JavaScript, and TypeScript.
 </p>
 
+<hr>
+
 <p>
-⚡ Skilled in building responsive and scalable web applications using HTML5,
-CSS3, Material UI, Tailwind CSS, and Bootstrap.
+⚡ Skilled in building responsive and user-friendly web applications using
+HTML5, CSS3, Material UI, Tailwind CSS, and Bootstrap.
 </p>
+
+<hr>
 
 <p>
 🔗 Familiar with REST API integration and state management using Zustand.
 </p>
+
+<hr>
 
 <p>
 🧩 Interested in reusable components, responsive UI design, and
 performance-optimized frontend applications.
 </p>
 
+<hr>
+
 <p>
 🎯 Seeking an entry-level Frontend Developer role to apply my technical
 skills and contribute to real-world projects.
+</p>
+
+<hr>
+
+<h2>📫 Contact</h2>
+
+<hr>
+
+<p>
+📧 <a href="mailto:skeethana91@gmail.com">
+skeethana91@gmail.com
+</a>
+</p>
+
+<p>
+💼 <a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
+LinkedIn Profile
+</a>
+</p>
+
+<p>
+🐙 <a href="https://github.com/keerthana-sk-dot">
+GitHub Profile
+</a>
 </p>
 
 </td>
@@ -95,8 +144,6 @@ skills and contribute to real-world projects.
 </table>
 
 <hr>
-
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <hr>
