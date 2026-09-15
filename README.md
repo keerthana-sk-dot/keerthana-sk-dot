@@ -320,7 +320,6 @@ React.js · Next.js · TypeScript · Material UI
 
 <h2 align="center">🎯 Key Skills</h2>
 
-<hr>
 
 <p align="center">
 
@@ -339,7 +338,7 @@ React.js · Next.js · TypeScript · Material UI
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<hr>
+
 
 <p align="center">
 
@@ -357,7 +356,6 @@ React.js · Next.js · TypeScript · Material UI
 
 </p>
 
-<hr>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
