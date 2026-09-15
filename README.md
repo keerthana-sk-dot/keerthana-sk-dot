@@ -58,18 +58,28 @@ REST API integration, Zustand, and reusable component development.
 
 <p align="left">
 
+<!-- Repositories -->
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.public_repos&label=Repositories&logo=github">
 </a>
 
+<!-- Followers -->
 <a href="https://github.com/keerthana-sk-dot">
-<img src="https://img.shields.io/github/followers/keerthana-sk-dot?label=Followers&logo=github">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.followers&label=Followers&logo=github">
 </a>
+
+<!-- Following -->
+<a href="https://github.com/keerthana-sk-dot?tab=following">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.following&label=Following&logo=github">
+</a>
+
+<!-- Stars received by your repositories -->
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/github/user-stars/keerthana-sk-dot?label=Stars&logo=github">
+<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&logo=github">
 </a>
 
 </p>
+
 
 <!-- RIGHT SIDE -->
 <td width="70%" valign="top">
