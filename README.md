@@ -53,7 +53,7 @@ using modern frontend technologies and component-based development.
 🚀 <b>Open to Entry-Level Opportunities</b>
 </p>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub </h2>
 
 <p align="center">
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
