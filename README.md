@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I'm Keerthana S</h1>
 
-
 <h3 align="center">
 Frontend Developer | React.js | Next.js | TypeScript
 </h3>
 
 <p align="center">
-M.Sc. Computer Science graduate and Frontend Developer with knowledge of
-React.js, Next.js, JavaScript, and TypeScript.
+M.Sc. Computer Science graduate and aspiring Frontend Developer with
+hands-on experience building responsive web applications using React.js,
+Next.js, JavaScript, and TypeScript.
 </p>
 
 <p align="center">
-Skilled in developing responsive and user-friendly web applications using
-HTML5, CSS3, Material UI, Tailwind CSS, and Bootstrap, with knowledge of
-REST API integration, Zustand, and reusable component development.
+Interested in creating clean, reusable, and user-friendly interfaces
+using modern frontend technologies and component-based development.
 </p>
+
 
 <hr>
 
