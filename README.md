@@ -169,7 +169,6 @@ skills and contribute to real-world projects.
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3>💻 Frontend</h3>
-
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -214,7 +213,6 @@ skills and contribute to real-world projects.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<hr>
 
 <table>
 <tr>
@@ -223,14 +221,12 @@ skills and contribute to real-world projects.
 
 <h3>⏳ ChronoCalc — Age Calculator</h3>
 
-<hr>
 
 <p>
 A responsive age calculator application built with Next.js, React.js,
 TypeScript, Material UI, and Day.js.
 </p>
 
-<hr>
 
 <ul>
 <li>Accurate age calculation in years, months, and days</li>
@@ -239,7 +235,6 @@ TypeScript, Material UI, and Day.js.
 <li>Responsive design across devices</li>
 </ul>
 
-<hr>
 
 <p>
 <b>Tech:</b>
@@ -252,14 +247,12 @@ Next.js · React.js · TypeScript · Material UI · Day.js
 
 <h3>🧠 Quiz Application</h3>
 
-<hr>
 
 <p>
 A responsive quiz application built with React.js, Next.js,
 TypeScript, and Material UI.
 </p>
 
-<hr>
 
 <ul>
 <li>Dynamic question rendering</li>
@@ -269,7 +262,6 @@ TypeScript, and Material UI.
 <li>Responsive design</li>
 </ul>
 
-<hr>
 
 <p>
 <b>Tech:</b>
@@ -288,7 +280,6 @@ React.js · Next.js · TypeScript · Material UI
 
 <h2 align="center">🎓 Education</h2>
 
-<hr>
 
 <table align="center">
 
