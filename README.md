@@ -53,6 +53,7 @@ REST API integration, Zustand, and reusable component development.
 <p align="left">
 🚀 <b>Open to Entry-Level Opportunities</b>
 </p>
+
 <h2>📊 GitHub Stats</h2>
 
 <p align="left">
@@ -65,17 +66,11 @@ REST API integration, Zustand, and reusable component development.
 <img src="https://img.shields.io/github/followers/keerthana-sk-dot?label=Followers&logo=github">
 </a>
 
-<a href="https://github.com/keerthana-sk-dot?tab=following">
-<img src="https://img.shields.io/github/following/keerthana-sk-dot?label=Following&logo=github">
-</a>
-
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
 <img src="https://img.shields.io/github/user-stars/keerthana-sk-dot?label=Stars&logo=github">
 </a>
 
 </p>
-</td>
-
 
 <!-- RIGHT SIDE -->
 <td width="70%" valign="top">
