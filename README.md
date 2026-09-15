@@ -164,7 +164,6 @@ skills and contribute to real-world projects.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<hr>
 
 <h3>💻 Frontend</h3>
 
@@ -177,7 +176,6 @@ skills and contribute to real-world projects.
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-<hr>
 
 <h3>🎨 UI & Styling</h3>
 
@@ -187,7 +185,6 @@ skills and contribute to real-world projects.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-<hr>
 
 <h3>🔗 State Management & APIs</h3>
 
@@ -198,7 +195,6 @@ skills and contribute to real-world projects.
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 </p>
 
-<hr>
 
 <h3>🔧 Tools</h3>
 
@@ -210,7 +206,6 @@ skills and contribute to real-world projects.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-<hr>
 
 
 <!-- ================= PROJECTS ================= -->
