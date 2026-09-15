@@ -126,7 +126,6 @@ skills and contribute to real-world projects.
 
 <h2>📫 Contact</h2>
 
-
 <p>
 📍 <b>Chennai, Tamil Nadu, India</b>
 </p>
@@ -138,10 +137,9 @@ skills and contribute to real-world projects.
 <p>
 📧
 <a href="mailto:skeethana91@gmail.com">
-<b>Email</b>
+<b>skeethana91@gmail.com</b>
 </a>
 </p>
-
 
 <p>
 💼
@@ -150,7 +148,6 @@ skills and contribute to real-world projects.
 </a>
 </p>
 
-
 <p>
 🐙
 <a href="https://github.com/keerthana-sk-dot">
@@ -158,13 +155,10 @@ skills and contribute to real-world projects.
 </a>
 </p>
 
-
 </td>
 
 </tr>
 </table>
-
-
 
 <!-- ================= TECH STACK ================= -->
 
