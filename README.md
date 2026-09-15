@@ -65,7 +65,6 @@ REST API integration, Zustand, and reusable component development.
 <a href="https://github.com/keerthana-sk-dot">
 <img src="https://img.shields.io/github/followers/keerthana-sk-dot?label=Followers&logo=github">
 </a>
-
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
 <img src="https://img.shields.io/github/user-stars/keerthana-sk-dot?label=Stars&logo=github">
 </a>
