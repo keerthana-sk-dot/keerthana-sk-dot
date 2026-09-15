@@ -143,11 +143,10 @@ I can contribute, learn, and grow with a development team.
 <!-- ================= TECH STACK ================= -->
 
 
-<br>
-<br>
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3>💻 Frontend</h3>
+<h3>💻 Frontend Development</h3>
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -157,7 +156,6 @@ I can contribute, learn, and grow with a development team.
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-
 <h3>🎨 UI & Styling</h3>
 
 <p>
@@ -166,17 +164,17 @@ I can contribute, learn, and grow with a development team.
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
-
-<h3>🔗 State Management & APIs</h3>
+<h3>🔗 APIs & State Management</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge">
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
 <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 </p>
 
-<h3>🔧 Tools</h3>
+<h3>🔧 Development Tools</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -185,6 +183,9 @@ I can contribute, learn, and grow with a development team.
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
+
+<br>
+
 
 
 
