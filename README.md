@@ -159,11 +159,14 @@ skills and contribute to real-world projects.
 
 </tr>
 </table>
+<hr>
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
+<br>
+<br>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <h3>💻 Frontend</h3>
 
@@ -194,7 +197,6 @@ skills and contribute to real-world projects.
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
 </p>
-
 
 <h3>🔧 Tools</h3>
 
