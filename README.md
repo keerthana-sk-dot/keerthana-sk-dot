@@ -16,7 +16,6 @@ using modern frontend technologies and component-based development.
 </p>
 
 
-<hr>
 
 <!-- ================= PROFILE SECTION ================= -->
 
@@ -99,7 +98,6 @@ responsive web applications.
 I can contribute, learn, and grow with a development team.
 </p>
 
-<hr>
 
 
 <h2>📫 Contact</h2>
@@ -138,7 +136,6 @@ I can contribute, learn, and grow with a development team.
 
 </tr>
 </table>
-<hr>
 
 <!-- ================= TECH STACK ================= -->
 
