@@ -56,35 +56,15 @@ using modern frontend technologies and component-based development.
 
 <h2>📊 GitHub Stats</h2>
 
-<table>
-<tr>
-<td align="center">
+<p align="center">
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</td>
 
-<td align="center">
 <a href="https://github.com/keerthana-sk-dot">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.followers&label=Followers&style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://github.com/keerthana-sk-dot?tab=following">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.following&label=Following&style=for-the-badge&logo=github">
-</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&style=for-the-badge&logo=github">
-</a>
-</td>
-</tr>
-</table>
+</p>
 
 <!-- RIGHT SIDE -->
 <td width="70%" valign="top">
