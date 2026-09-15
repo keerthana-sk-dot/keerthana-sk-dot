@@ -56,30 +56,35 @@ REST API integration, Zustand, and reusable component development.
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="left">
-
-<!-- Repositories -->
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.public_repos&label=Repositories&logo=github">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github">
 </a>
+</td>
 
-<!-- Followers -->
+<td align="center">
 <a href="https://github.com/keerthana-sk-dot">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.followers&label=Followers&logo=github">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.followers&label=Followers&style=for-the-badge&logo=github">
 </a>
+</td>
+</tr>
 
-<!-- Following -->
+<tr>
+<td align="center">
 <a href="https://github.com/keerthana-sk-dot?tab=following">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.following&label=Following&logo=github">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkeerthana-sk-dot&query=%24.following&label=Following&style=for-the-badge&logo=github">
 </a>
+</td>
 
-<!-- Stars received by your repositories -->
+<td align="center">
 <a href="https://github.com/keerthana-sk-dot?tab=repositories">
-<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&logo=github">
+<img src="https://img.shields.io/github/stars/keerthana-sk-dot?label=Stars&style=for-the-badge&logo=github">
 </a>
-
-</p>
-
+</td>
+</tr>
+</table>
 
 <!-- RIGHT SIDE -->
 <td width="70%" valign="top">
