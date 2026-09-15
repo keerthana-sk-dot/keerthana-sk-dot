@@ -122,16 +122,17 @@ I can contribute, learn, and grow with a development team.
 <p>
 💼
 <a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
-<b>linkedin.com/in/keerthana-s-9b327b298</b>
+<b>LinkedIn</b>
 </a>
 </p>
 
 <p>
 🐙
 <a href="https://github.com/keerthana-sk-dot">
-<b>github.com/keerthana-sk-dot</b>
+<b>GitHub</b>
 </a>
 </p>
+
 
 </td>
 
