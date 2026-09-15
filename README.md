@@ -92,37 +92,35 @@ using modern frontend technologies and component-based development.
 <h2>🙋‍♀️ About Me</h2>
 
 <p>
-🎓 M.Sc. Computer Science graduate with a strong focus on Frontend Development.
-</p>
-
-
-<p>
-💻 Strong knowledge of React.js, Next.js, JavaScript, and TypeScript.
+🎓 M.Sc. Computer Science graduate focused on Frontend Development.
 </p>
 
 <p>
-⚡ Skilled in building responsive and user-friendly web applications using
-HTML5, CSS3, Material UI, Tailwind CSS, and Bootstrap.
+💻 Hands-on experience with React.js, Next.js, JavaScript, and TypeScript.
 </p>
 
-
 <p>
-🔗 Familiar with REST API integration and state management using Zustand.
+🎨 Building responsive and user-friendly interfaces using HTML5, CSS3,
+Material UI, Tailwind CSS, and Bootstrap.
 </p>
 
-
 <p>
-🧩 Interested in reusable components, responsive UI design, and
-performance-optimized frontend applications.
+🔗 Familiar with REST API integration, React Query, and Zustand for
+state management.
 </p>
 
+<p>
+🧩 Interested in reusable components, clean UI development, and
+responsive web applications.
+</p>
 
 <p>
-🎯 Seeking an entry-level Frontend Developer role to apply my technical
-skills and contribute to real-world projects.
+🎯 Currently seeking an entry-level Frontend Developer opportunity where
+I can contribute, learn, and grow with a development team.
 </p>
 
 <hr>
+
 
 <h2>📫 Contact</h2>
 
