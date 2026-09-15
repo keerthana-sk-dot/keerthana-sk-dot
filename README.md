@@ -144,14 +144,14 @@ skills and contribute to real-world projects.
 <p>
 💼
 <a href="https://www.linkedin.com/in/keerthana-s-9b327b298/">
-<b>LinkedIn</b>
+<b>linkedin.com/in/keerthana-s-9b327b298</b>
 </a>
 </p>
 
 <p>
 🐙
 <a href="https://github.com/keerthana-sk-dot">
-<b>GitHub</b>
+<b>github.com/keerthana-sk-dot</b>
 </a>
 </p>
 
